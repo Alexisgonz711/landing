@@ -1,0 +1,38 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Poppins:wght@700');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v6.1.2/css/all.css');
+
+/* Utilities */
+@import url("../css/banner.css");
+@import url("../css/button.css");
+@import url("../css/card.css");
+@import url("../css/footer.css");
+
+body {
+  margin: 0;
+  font-family: Open Sans;
+  background-color: #F2F2F2;
+}
+
+h1, h2, h4 {
+  font-family: 'Roboto', sans-serif;
+}
+ h3{
+  font-weight: normal;
+  font-family: 'Roboto', sans-serif;
+ }
+a {
+  text-decoration: none;
+}
+
+div{
+  display: block;
+}
+
+.text-center{
+  text-align: center;
+}
+
+/* Custom design below! */

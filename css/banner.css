@@ -1,0 +1,17 @@
+.banner{
+  background-image: url(/../../landing/images/montagnelanding.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 150px 0;
+}
+.banner .container{
+  color: white;
+
+}
+
+.container{
+  margin: auto;
+  text-align: justify;
+  font-size: 17px;
+  width: 900px;
+}
